@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0;
   font-weight: 500;
-  line-height: 1.2; }
+  line-height: 1.4; }
 
 h1, .h1 {
   font-size: 2.1875rem; }
@@ -15663,7 +15663,7 @@ body {
           font-size: 24px; } }
       .card-dashboard-two .card-header h6 i {
         margin-left: 10px;
-        font-size: 24px; }
+        font-size: 2px; }
       .card-dashboard-two .card-header h6 small {
         font-size: 12px;
         font-weight: 400;
